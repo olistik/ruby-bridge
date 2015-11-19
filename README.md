@@ -4,7 +4,7 @@ Ruby Bridge è un progetto che promuove l'integrazione delle comunità locali tr
 
 Sito web: http://rubybridge.org
 
-**Chi volesse candidarsi al corso può compilare l'apposito [questionario](http://goo.gl/forms/GC6Bho8GmW).**
+**[Modulo d'iscrizione al corso](http://goo.gl/forms/GC6Bho8GmW)**
 
 ## Motivazione
 
